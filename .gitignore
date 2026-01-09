@@ -1,0 +1,5 @@
+.env
+test-life-cycle.py
+*.log
+__pycache__/
+.vscode/

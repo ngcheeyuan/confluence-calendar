@@ -1,0 +1,4 @@
+atlassian-python-api
+pydantic
+python-dotenv
+requests
